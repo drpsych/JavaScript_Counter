@@ -24,5 +24,3 @@ reset.addEventListener('click', function() {
     let output = document.querySelector("#output");
     output.innerText = 0;
 });
-
-console.log(add, subtract);
